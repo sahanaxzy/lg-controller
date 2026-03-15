@@ -11,5 +11,5 @@ A Flutter application to control a Liquid Galaxy.
 
 ## Usage
 1. Connect an Android device to the Liquid Galaxy Wi-Fi network.
-2. Enter the Master node IP and SSH credentials in Settings.
+2. Enter the Master node IP address,SSH port, Username and password in Settings.
 3. Tap on a monument to fly there and start exploring!
